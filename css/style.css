@@ -151,7 +151,7 @@ header .btn-menu-mob .line-menumob-2.ativo2 {
 /* Estilo do Hero */
 section.hero-site {
     height: 100vh;
-    background-image: url("/images/bg-inicio-site.jpg");
+    background-image: url("images/bg-inicio-site.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -279,7 +279,7 @@ section.contato {
 section.hoteis {
     height: 600px;
 
-    background-image: url('/images/hotel-bg.jpg');
+    background-image: url('images/hotel-bg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
