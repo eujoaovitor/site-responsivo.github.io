@@ -203,7 +203,7 @@ body.no-overflow {
 /* Estilo do Hero */
 section.hero-site {
     height: 100vh;
-    background-image: url("/images/bg-inicio-site.jpg");
+    background-image: url(../images/bg-inicio-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
